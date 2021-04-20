@@ -1,13 +1,13 @@
-<h2 align= "center"> Json-delphi
+<h2 align= "center"> Json-Delphi
 <p align = "center">  
-Leitura e criação de Json para delphi
+Leitura e criação de Json para Delphi
   </p>
 <p align = "center">
  <img width=300 height=200 src=Images/Delphi.png >  
 <img width=300 height=200 src=Images/logo-json.png >
 <p>
   
-<p align = "center">Conteudo disponivel graças a aula de: </p>
+<p align = "center">Conteúdo disponível graças a aula de: </p>
 <p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.youtube.com/watch?v=_975rlVSXJI&ab_channel=99Coders">  
