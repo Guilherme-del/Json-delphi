@@ -1,4 +1,4 @@
-<h2 align= "center"> Json-Delphi
+<h2 align= "center"> <abbr title=" JavaScript Object Notation">Json</abbr>-Delphi
 <p align = "center">  
 Leitura e criação de Json para Delphi
   </p>
