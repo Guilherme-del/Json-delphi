@@ -1,5 +1,7 @@
-# Json-delphi
+<h2 align= "center"> Json-delphi
+<p align = "center">  
 Leitura e criação de Json para delphi
+  </p>
 <p align = "center">
 <img width=300 height=200 src=Images/logo-json.png >
 <img width=300 height=200 src=Images/Delphi.png >  
